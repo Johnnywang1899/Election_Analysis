@@ -21,6 +21,15 @@ message_to_candidate = (
 
 print(message_to_candidate) '''
 
+'''
 import os
 file_to_load = os.path.join("Resources", "election_results.csv")
 print(file_to_load)
+'''
+
+mylist = iter(["apple", "banana", "cherry"])
+x = next(mylist)
+y = next(mylist)
+#print(x)
+for item in mylist:
+    print(item)
