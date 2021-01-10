@@ -12,7 +12,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv  
 - Software: Python 3.9.1, Visual Studio Code 2020
   
-## Summary
+## Summary  
 The analysis of the election show that:  
 ----------------------------------  
 Total Votes: 369.711  
